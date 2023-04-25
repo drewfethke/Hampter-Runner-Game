@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: fe27fcae571514e2c969decb2df8656d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Edu NSW ACT Foundation
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f8b013329e1954ecaa83974b9d11a104, type: 3}
+  - {fileID: 12800000, guid: 32218854a69eb43af829293c5ed6b266, type: 3}
+  - {fileID: 12800000, guid: 7b5dad88a0ba54983a40ec9d95c1d86a, type: 3}
+  - {fileID: 12800000, guid: 531e9b7c4693745cda7abaa6d4769f61, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
